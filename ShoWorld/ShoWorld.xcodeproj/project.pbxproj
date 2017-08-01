@@ -7,27 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7313E4A11F30027700BC90F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7313E4A01F30027700BC90F6 /* AppDelegate.swift */; };
-		7313E4A31F30027700BC90F6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7313E4A21F30027700BC90F6 /* ViewController.swift */; };
-		7313E4A61F30027700BC90F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7313E4A41F30027700BC90F6 /* Main.storyboard */; };
-		7313E4A81F30027700BC90F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7313E4A71F30027700BC90F6 /* Assets.xcassets */; };
-		7313E4AB1F30027700BC90F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7313E4A91F30027700BC90F6 /* LaunchScreen.storyboard */; };
-		7313E4D11F300D2F00BC90F6 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7313E4D01F300D2F00BC90F6 /* Default-568h@2x.png */; };
+		7313E4BF1F30037A00BC90F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7313E4BE1F30037A00BC90F6 /* AppDelegate.swift */; };
+		7313E4C11F30037A00BC90F6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7313E4C01F30037A00BC90F6 /* ViewController.swift */; };
+		7313E4C41F30037A00BC90F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7313E4C21F30037A00BC90F6 /* Main.storyboard */; };
+		7313E4C61F30037A00BC90F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7313E4C51F30037A00BC90F6 /* Assets.xcassets */; };
+		7313E4C91F30037A00BC90F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7313E4C71F30037A00BC90F6 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7313E49D1F30027700BC90F6 /* ShoWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShoWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7313E4A01F30027700BC90F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7313E4A21F30027700BC90F6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		7313E4A51F30027700BC90F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		7313E4A71F30027700BC90F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		7313E4AA1F30027700BC90F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7313E4AC1F30027700BC90F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7313E4D01F300D2F00BC90F6 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		7313E4BB1F30037A00BC90F6 /* ShoWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShoWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7313E4BE1F30037A00BC90F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7313E4C01F30037A00BC90F6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7313E4C31F30037A00BC90F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		7313E4C51F30037A00BC90F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7313E4C81F30037A00BC90F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7313E4CA1F30037A00BC90F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7313E49A1F30027700BC90F6 /* Frameworks */ = {
+		7313E4B81F30037A00BC90F6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,32 +35,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7313E4941F30027600BC90F6 = {
+		7313E4B21F30037A00BC90F6 = {
 			isa = PBXGroup;
 			children = (
-				7313E4D01F300D2F00BC90F6 /* Default-568h@2x.png */,
-				7313E49F1F30027700BC90F6 /* ShoWorld */,
-				7313E49E1F30027700BC90F6 /* Products */,
+				7313E4BD1F30037A00BC90F6 /* ShoWorld */,
+				7313E4BC1F30037A00BC90F6 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		7313E49E1F30027700BC90F6 /* Products */ = {
+		7313E4BC1F30037A00BC90F6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7313E49D1F30027700BC90F6 /* ShoWorld.app */,
+				7313E4BB1F30037A00BC90F6 /* ShoWorld.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7313E49F1F30027700BC90F6 /* ShoWorld */ = {
+		7313E4BD1F30037A00BC90F6 /* ShoWorld */ = {
 			isa = PBXGroup;
 			children = (
-				7313E4A01F30027700BC90F6 /* AppDelegate.swift */,
-				7313E4A21F30027700BC90F6 /* ViewController.swift */,
-				7313E4A41F30027700BC90F6 /* Main.storyboard */,
-				7313E4A71F30027700BC90F6 /* Assets.xcassets */,
-				7313E4A91F30027700BC90F6 /* LaunchScreen.storyboard */,
-				7313E4AC1F30027700BC90F6 /* Info.plist */,
+				7313E4BE1F30037A00BC90F6 /* AppDelegate.swift */,
+				7313E4C01F30037A00BC90F6 /* ViewController.swift */,
+				7313E4C21F30037A00BC90F6 /* Main.storyboard */,
+				7313E4C51F30037A00BC90F6 /* Assets.xcassets */,
+				7313E4C71F30037A00BC90F6 /* LaunchScreen.storyboard */,
+				7313E4CA1F30037A00BC90F6 /* Info.plist */,
 			);
 			path = ShoWorld;
 			sourceTree = "<group>";
@@ -70,13 +67,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7313E49C1F30027700BC90F6 /* ShoWorld */ = {
+		7313E4BA1F30037A00BC90F6 /* ShoWorld */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7313E4AF1F30027700BC90F6 /* Build configuration list for PBXNativeTarget "ShoWorld" */;
+			buildConfigurationList = 7313E4CD1F30037A00BC90F6 /* Build configuration list for PBXNativeTarget "ShoWorld" */;
 			buildPhases = (
-				7313E4991F30027700BC90F6 /* Sources */,
-				7313E49A1F30027700BC90F6 /* Frameworks */,
-				7313E49B1F30027700BC90F6 /* Resources */,
+				7313E4B71F30037A00BC90F6 /* Sources */,
+				7313E4B81F30037A00BC90F6 /* Frameworks */,
+				7313E4B91F30037A00BC90F6 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -84,26 +81,26 @@
 			);
 			name = ShoWorld;
 			productName = ShoWorld;
-			productReference = 7313E49D1F30027700BC90F6 /* ShoWorld.app */;
+			productReference = 7313E4BB1F30037A00BC90F6 /* ShoWorld.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		7313E4951F30027600BC90F6 /* Project object */ = {
+		7313E4B31F30037A00BC90F6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = "Taro sho";
 				TargetAttributes = {
-					7313E49C1F30027700BC90F6 = {
+					7313E4BA1F30037A00BC90F6 = {
 						CreatedOnToolsVersion = 8.3.3;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 7313E4981F30027600BC90F6 /* Build configuration list for PBXProject "ShoWorld" */;
+			buildConfigurationList = 7313E4B61F30037A00BC90F6 /* Build configuration list for PBXProject "ShoWorld" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -111,55 +108,54 @@
 				en,
 				Base,
 			);
-			mainGroup = 7313E4941F30027600BC90F6;
-			productRefGroup = 7313E49E1F30027700BC90F6 /* Products */;
+			mainGroup = 7313E4B21F30037A00BC90F6;
+			productRefGroup = 7313E4BC1F30037A00BC90F6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7313E49C1F30027700BC90F6 /* ShoWorld */,
+				7313E4BA1F30037A00BC90F6 /* ShoWorld */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		7313E49B1F30027700BC90F6 /* Resources */ = {
+		7313E4B91F30037A00BC90F6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7313E4AB1F30027700BC90F6 /* LaunchScreen.storyboard in Resources */,
-				7313E4D11F300D2F00BC90F6 /* Default-568h@2x.png in Resources */,
-				7313E4A81F30027700BC90F6 /* Assets.xcassets in Resources */,
-				7313E4A61F30027700BC90F6 /* Main.storyboard in Resources */,
+				7313E4C91F30037A00BC90F6 /* LaunchScreen.storyboard in Resources */,
+				7313E4C61F30037A00BC90F6 /* Assets.xcassets in Resources */,
+				7313E4C41F30037A00BC90F6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		7313E4991F30027700BC90F6 /* Sources */ = {
+		7313E4B71F30037A00BC90F6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7313E4A31F30027700BC90F6 /* ViewController.swift in Sources */,
-				7313E4A11F30027700BC90F6 /* AppDelegate.swift in Sources */,
+				7313E4C11F30037A00BC90F6 /* ViewController.swift in Sources */,
+				7313E4BF1F30037A00BC90F6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		7313E4A41F30027700BC90F6 /* Main.storyboard */ = {
+		7313E4C21F30037A00BC90F6 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7313E4A51F30027700BC90F6 /* Base */,
+				7313E4C31F30037A00BC90F6 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		7313E4A91F30027700BC90F6 /* LaunchScreen.storyboard */ = {
+		7313E4C71F30037A00BC90F6 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7313E4AA1F30027700BC90F6 /* Base */,
+				7313E4C81F30037A00BC90F6 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -167,7 +163,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		7313E4AD1F30027700BC90F6 /* Debug */ = {
+		7313E4CB1F30037A00BC90F6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -217,7 +213,7 @@
 			};
 			name = Debug;
 		};
-		7313E4AE1F30027700BC90F6 /* Release */ = {
+		7313E4CC1F30037A00BC90F6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -260,12 +256,11 @@
 			};
 			name = Release;
 		};
-		7313E4B01F30027700BC90F6 /* Debug */ = {
+		7313E4CE1F30037A00BC90F6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = ShoWorld/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.taro.sho.ShoWorld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -273,12 +268,11 @@
 			};
 			name = Debug;
 		};
-		7313E4B11F30027700BC90F6 /* Release */ = {
+		7313E4CF1F30037A00BC90F6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = ShoWorld/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.taro.sho.ShoWorld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -289,24 +283,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7313E4981F30027600BC90F6 /* Build configuration list for PBXProject "ShoWorld" */ = {
+		7313E4B61F30037A00BC90F6 /* Build configuration list for PBXProject "ShoWorld" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7313E4AD1F30027700BC90F6 /* Debug */,
-				7313E4AE1F30027700BC90F6 /* Release */,
+				7313E4CB1F30037A00BC90F6 /* Debug */,
+				7313E4CC1F30037A00BC90F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7313E4AF1F30027700BC90F6 /* Build configuration list for PBXNativeTarget "ShoWorld" */ = {
+		7313E4CD1F30037A00BC90F6 /* Build configuration list for PBXNativeTarget "ShoWorld" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7313E4B01F30027700BC90F6 /* Debug */,
-				7313E4B11F30027700BC90F6 /* Release */,
+				7313E4CE1F30037A00BC90F6 /* Debug */,
+				7313E4CF1F30037A00BC90F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 7313E4951F30027600BC90F6 /* Project object */;
+	rootObject = 7313E4B31F30037A00BC90F6 /* Project object */;
 }
